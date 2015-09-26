@@ -1,0 +1,1 @@
+{"message": {"body": "how many quarters full time now", "transcribed_at": "2015-09-26T20:55:10.096365", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "35%"}}

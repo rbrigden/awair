@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "harvest fresh christmas tree", "transcribed_at": "2015-09-26T19:03:18.465528", "confidence_%": "29%", "message_type": "", "locale": "Pittsburg"}}

@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "MIDCONF", "body": "ok we should know why we can't find anything out there and ride at 4 if it goes off again a call right away", "transcribed_at": "2015-09-26T18:59:18.514041", "confidence_%": "48%", "message_type": "", "locale": "Pittsburg"}}

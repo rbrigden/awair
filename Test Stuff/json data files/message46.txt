@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "MIDCONF", "locale": "Pittsburgh", "confidence_%": "41%", "transcribed_at": "2015-09-26T21:20:11.517842", "body": "activation off at 6536 court house for sale 6188 phone or r 779", "message_type": ""}}

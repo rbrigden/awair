@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "confidence_%": "30%", "body": "tractor truck only one ticket for spine research road", "transcribed_at": "2015-09-26T21:26:29.414039", "locale": "Pittsburgh", "confidence_string": "LOWCONF"}}

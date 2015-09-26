@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "all set an appointment I don't know what to say I gotta right here", "confidence_string": "MIDCONF", "transcribed_at": "2015-09-26T20:29:54.635236", "locale": "Pittsburgh", "confidence_%": "40%"}}

@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "HIGHCONF", "body": "week", "locale": "Pittsburgh", "transcribed_at": "2015-09-26T20:05:09.283701", "message_type": "", "confidence_%": "73%"}}

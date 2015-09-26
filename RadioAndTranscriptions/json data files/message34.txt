@@ -1,0 +1,1 @@
+{"message": {"body": "are in a liter of akram skosana the fire were you located", "transcribed_at": "2015-09-26T20:57:40.016156", "confidence_string": "LOWCONF", "message_type": "fire", "locale": "Pittsburgh", "confidence_%": "32%"}}

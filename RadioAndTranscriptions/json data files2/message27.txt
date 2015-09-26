@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "morning have a half an estimated that", "confidence_string": "LOWCONF", "transcribed_at": "2015-09-26T20:33:24.759960", "locale": "Pittsburgh", "confidence_%": "28%"}}

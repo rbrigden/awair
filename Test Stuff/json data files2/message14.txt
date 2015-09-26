@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "car now", "transcribed_at": "2015-09-26T19:01:45.848343", "confidence_%": "21%", "message_type": "", "locale": "Pittsburg"}}

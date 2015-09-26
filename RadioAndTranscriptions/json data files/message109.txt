@@ -1,0 +1,1 @@
+{"message": {"transcribed_at": "2015-09-26T21:41:06.366526", "message_type": "", "body": "23 is back from transfer center city", "locale": "Pittsburgh", "confidence_string": "LOWCONF", "confidence_%": "26%"}}

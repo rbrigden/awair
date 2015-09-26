@@ -1,0 +1,1 @@
+{"message": {"transcribed_at": "2015-09-26T21:42:36.295205", "message_type": "", "body": "second", "locale": "Pittsburgh", "confidence_string": "LOWCONF", "confidence_%": "28%"}}

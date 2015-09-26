@@ -1,0 +1,1 @@
+{"message": {"message_type": "fire", "confidence_%": "59%", "body": "st 3678 needed residential fire alarm activation 1:24 reckless driving charge for your smokes come pick your ass response", "transcribed_at": "2015-09-26T21:29:59.298638", "locale": "Pittsburgh", "confidence_string": "HIGHCONF"}}

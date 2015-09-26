@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "does north frio street austin texas", "confidence_string": "LOWCONF", "transcribed_at": "2015-09-26T20:35:54.451219", "locale": "Pittsburgh", "confidence_%": "23%"}}

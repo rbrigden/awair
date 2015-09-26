@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "county weberg jackman", "locale": "Pittsburgh", "transcribed_at": "2015-09-26T19:59:39.884996", "message_type": "", "confidence_%": "21%"}}

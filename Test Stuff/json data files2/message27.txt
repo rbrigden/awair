@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "christmas eve has a very far field in a confirmation on super center", "transcribed_at": "2015-09-26T19:03:45.188358", "confidence_%": "38%", "message_type": "", "locale": "Pittsburg"}}

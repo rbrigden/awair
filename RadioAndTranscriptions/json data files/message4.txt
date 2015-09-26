@@ -1,0 +1,1 @@
+{"message": {"body": "percy alarm activate for 6 months her first Ave in westchester", "transcribed_at": "2015-09-26T20:52:39.968619", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "34%"}}

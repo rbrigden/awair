@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "49 year old male the south willow grove", "transcribed_at": "2015-09-26T19:00:15.974371", "confidence_%": "35%", "message_type": "", "locale": "Pittsburg"}}

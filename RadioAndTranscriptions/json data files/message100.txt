@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "confidence_%": "37%", "body": "did one of our car com northwest indiana for my way home but I'm leaving for the morning", "transcribed_at": "2015-09-26T21:34:30.022662", "locale": "Pittsburgh", "confidence_string": "LOWCONF"}}

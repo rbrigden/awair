@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "personal offices", "confidence_string": "LOWCONF", "transcribed_at": "2015-09-26T20:33:55.239340", "locale": "Pittsburgh", "confidence_%": "21%"}}

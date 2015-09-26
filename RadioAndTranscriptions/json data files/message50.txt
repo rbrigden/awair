@@ -1,0 +1,1 @@
+{"message": {"body": "normal time for everything you got a couple more days ago it", "transcribed_at": "2015-09-26T21:00:10.808166", "confidence_string": "MIDCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "45%"}}

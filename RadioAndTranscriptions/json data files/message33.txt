@@ -1,0 +1,1 @@
+{"message": {"body": "70 year old female chest pains lightheadedness 1656", "transcribed_at": "2015-09-26T20:57:10.848057", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "34%"}}

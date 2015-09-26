@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "confidence_%": "42%", "body": "tennessee 31", "transcribed_at": "2015-09-26T21:32:00.886757", "locale": "Pittsburgh", "confidence_string": "MIDCONF"}}

@@ -1,0 +1,1 @@
+{"message": {"body": "bars in 30 minutes or so", "transcribed_at": "2015-09-26T21:00:10.803431", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "23%"}}

@@ -1,0 +1,1 @@
+{"message": {"confidence_%": "49%", "confidence_string": "MIDCONF", "body": "shut down the other line", "message_type": "", "transcribed_at": "2015-09-26T21:19:09.311962", "locale": "Pittsburgh"}}

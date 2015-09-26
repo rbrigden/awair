@@ -1,0 +1,1 @@
+{"message": {"body": "new jersey", "transcribed_at": "2015-09-26T20:55:10.102037", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "17%"}}

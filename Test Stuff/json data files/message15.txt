@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "morning on facebook family farm brothers phone service social care home call william street in ways to kill yourself", "locale": "Pittsburgh", "transcribed_at": "2015-09-26T20:02:39.603096", "message_type": "", "confidence_%": "31%"}}

@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "price on my way trying to be a fabulous there", "transcribed_at": "2015-09-26T19:03:18.460397", "confidence_%": "24%", "message_type": "", "locale": "Pittsburg"}}

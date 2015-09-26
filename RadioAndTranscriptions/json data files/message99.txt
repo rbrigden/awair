@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "confidence_%": "32%", "body": "first party report", "transcribed_at": "2015-09-26T21:34:00.281313", "locale": "Pittsburgh", "confidence_string": "LOWCONF"}}

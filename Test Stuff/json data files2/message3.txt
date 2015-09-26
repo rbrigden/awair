@@ -1,0 +1,1 @@
+{"message": {"confidence_string": "LOWCONF", "body": "I'm gonna say suicide hotline wires are going on strike", "transcribed_at": "2015-09-26T18:59:45.016638", "confidence_%": "33%", "message_type": "", "locale": "Pittsburg"}}

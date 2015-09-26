@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "search for rent in the parking lot", "confidence_string": "LOWCONF", "transcribed_at": "2015-09-26T20:34:24.941234", "locale": "Pittsburgh", "confidence_%": "26%"}}

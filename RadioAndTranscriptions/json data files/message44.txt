@@ -1,0 +1,1 @@
+{"message": {"body": "frys the difference in their forties accident in the roadway pharmacy", "transcribed_at": "2015-09-26T20:59:40.945002", "confidence_string": "LOWCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "28%"}}

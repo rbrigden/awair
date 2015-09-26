@@ -1,0 +1,1 @@
+{"message": {"body": "can I ask a channel on the post office and I cracked", "transcribed_at": "2015-09-26T20:58:10.503352", "confidence_string": "MIDCONF", "message_type": "", "locale": "Pittsburgh", "confidence_%": "44%"}}

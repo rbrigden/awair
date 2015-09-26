@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "confidence_%": "28%", "body": "when I went out", "transcribed_at": "2015-09-26T21:34:00.279312", "locale": "Pittsburgh", "confidence_string": "LOWCONF"}}

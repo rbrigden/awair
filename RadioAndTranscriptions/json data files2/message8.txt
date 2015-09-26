@@ -1,0 +1,1 @@
+{"message": {"message_type": "", "body": "texas station for home working on the side effects", "confidence_string": "LOWCONF", "transcribed_at": "2015-09-26T20:29:24.285497", "locale": "Pittsburgh", "confidence_%": "39%"}}
